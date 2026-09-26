@@ -1,0 +1,1 @@
+# laprak1-struktur-data
