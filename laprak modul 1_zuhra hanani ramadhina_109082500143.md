@@ -2,7 +2,7 @@
 <p align="center">Zuhra Hanani Ramadhina - 109082500143</p>
 
 ## Dasar Teori
-C++ adalah bahasa pemrograman tingkat menengah yang dikembangkan oleh Bjarne Stroustrup sebagai pengembangan dari bahasa C dengan tambahan fitur pemrograman berorientasi objek[2]. Bahasa ini bersifat statically typed, artinya setiap variabel harus dideklarasikan tipe datanya sebelum digunakan, dan banyak dipakai dalam pengembangan software karena performanya yang mendekati bahasa tingkat rendah namun tetap mudah dibaca oleh manusia.
+C++ adalah bahasa pemrograman tingkat menengah yang dikembangkan sebagai pengembangan dari bahasa C dengan tambahan dukungan paradigma pemrograman berorientasi objek[1]. Bahasa ini bersifat statically typed, artinya setiap variabel harus dideklarasikan tipe datanya terlebih dahulu sebelum digunakan, berbeda dengan bahasa dynamically typed yang tipe datanya bisa berubah secara otomatis saat program berjalan. C++ banyak digunakan dalam pengembangan software, sistem operasi, hingga game, karena performanya yang mendekati bahasa tingkat rendah namun tetap relatif mudah dipahami. Dalam pemrograman C++, terdapat beberapa konsep dasar yang perlu dipahami sebelum menyusun program yang lebih kompleks, di antaranya tipe data, variabel, operator, serta struktur kendali seperti percabangan dan perulangan.
 
 ### A. Tipe Data dan Variabel
 
