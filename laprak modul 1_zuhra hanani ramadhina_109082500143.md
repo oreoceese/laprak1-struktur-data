@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 1 - Codeblocks IDE & Pengenalan Bahas C++ (Bagian Pertama)</h1>
+# <h1 align="center">Laporan Praktikum Modul 1 - Codeblocks IDE & Pengenalan Bahasa C++ (Bagian Pertama)</h1>
 <p align="center">Zuhra Hanani Ramadhina - 109082500143</p>
 
 ## Dasar Teori
@@ -116,7 +116,7 @@ int main() {
 Program menggunakan perulangan for bersarang untuk mencetak pola mirror. Tiap baris terdiri dari angka menurun, tanda * sebagai sumbu, lalu angka menaik kembali, dengan indentasi spasi yang bertambah di tiap barisnya untuk membentuk efek cermin.
 
 ## Kesimpulan
-Berdasarkan praktikum yang telah dilakukan, dapat disimpulkan bahwa pemrograman C++ memiliki struktur dasar yang terdiri atas header, fungsi main, dan statement yang harus ditulis sesuai aturan sintaks. Penguasaan tipe data dasar seperti int, float, dan char sangat penting karena menentukan jenis operasi yang dapat dilakukan terhadap suatu variabel. Selain itu, melalui latihan guided dan unguided, mahasiswa dilatih untuk menerapkan konsep input-output, percabangan, dan perulangan dalam menyelesaikan permasalahan pemrograman sederhana, seperti operasi aritmatika, konversi angka menjadi tulisan, dan pembentukan pola (mirror pattern).
+Berdasarkan praktikum yang telah dilakukan, dapat disimpulkan bahwa pemrograman C++ memiliki struktur dasar yang terdiri atas header, fungsi main, dan statement yang harus ditulis sesuai aturan sintaks. Penguasaan tipe data dasar seperti int, float, dan char sangat penting karena menentukan jenis operasi yang dapat dilakukan terhadap suatu variabel. Selain itu, melalui latihan unguided, mahasiswa dilatih untuk menerapkan konsep input-output, percabangan, dan perulangan dalam menyelesaikan permasalahan pemrograman sederhana, seperti operasi aritmatika, konversi angka menjadi tulisan, dan pembentukan pola (mirror pattern).
 
 ## Referensi
 [1] Budiman., Alamsyah, Nur., Al Rasyid, Arief. (2023). *Buku Ajar Pemrograman C++*. Bandung: Unibi Press.
